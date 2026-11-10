@@ -1,20 +1,20 @@
 <div align="center">
 
-  <!-- BANNER SUPERIOR CON TU PALETA EXACTA -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=60519b&height=200&section=header&text=¡Hola,%20soy%20Nicole!%20✨&fontSize=42&fontColor=bfc0d1&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- BANNER SUPERIOR (DIBUJO ESCRITORIO MORADO) -->
+  <img src="https://i.pinimg.com/736x/60/61/fa/6061fafaa362dc49490717457d4a96c6.jpg" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Banner de Nicole" />
 
-  <br>
+  <br><br>
 
-  <!-- MÁQUINA DE ESCRIBIR ANIMADA -->
+  <!-- TEXTO ANIMADO DE MÁQUINA DE ESCRIBIR -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60519b&center=true&vCenter=true&width=480&lines=Frontend+%26+Backend+Developer;Computer+Science+Student;Building+clean+%26+scalable+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60519b&center=true&vCenter=true&width=480&lines=¡Hola,+soy+Nicole!+✨;Frontend+%26+Backend+Developer;Building+clean+%26+scalable+apps" alt="Typing SVG" />
   </a>
 
 </div>
 
 <br>
 
-<!-- SECCIÓN ABOUT ME (CON ILUSTRACIÓN AL LADO ESTILO EL PERFIL) -->
+<!-- SECCIÓN ABOUT ME (CON ILUSTRACIÓN AL LADO) -->
 ### 💫 About Me
 
 <table>
@@ -70,24 +70,27 @@
 
   <br>
 
-  <!-- ESTADÍSTICAS Y RACHA CON LA PALETA PURPLE -->
+  <!-- ESTADÍSTICAS Y ACTIVIDAD (PALETA PURPLE) -->
   <h3 style="color: #60519b;">📊 GitHub Analytics</h3>
+
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=niki06286n&show_icons=true&theme=tokyonight_duo&hide_border=true" height="150" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=niki06286n&background=1e202c&border=31323e&stroke=31323e&ring=60519b&fire=60519b&currStreakLabel=60519b&sideNums=bfc0d1&sideLabels=bfc0d1&dates=bfc0d1" height="150" alt="Streak Stats" />
   </p>
+
   <p>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki06286n&layout=compact&theme=tokyonight_duo&hide_border=true" height="140" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niki06286n&bg_color=1e202c&color=60519b&line=60519b&point=bfc0d1&area=true&hide_border=true" width="90%" alt="Activity Graph" />
   </p>
-  <!-- RANDOM DEV QUOTE CON TUS COLORES -->
+
+  <br>
+
+  <!-- DEV QUOTE CON PALETA DE COLORES -->
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=1e202c&text_color=bfc0d1&border_color=31323e" width="85%" />
   </p>
 
   <br>
 
-  <!-- BANNER INFERIOR DECORATIVO (ESTILO FOOTER) -->
+  <!-- BANNER INFERIOR DECORATIVO (FOOTER) -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1e202c&height=40&section=footer" width="100%" />
 
 </div>

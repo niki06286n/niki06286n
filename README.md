@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- TU NUEVO BANNER CON EL DIBUJO MORADO -->
-  <img src="./banner.png" width="100%" style="border-radius: 12px;" alt="Banner de Nicole" />
+  <!-- BANNER SUPERIOR CON TU PALETA EXACTA -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=60519b&height=200&section=header&text=¡Hola,%20soy%20Nicole!%20✨&fontSize=42&fontColor=bfc0d1&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <br>
 

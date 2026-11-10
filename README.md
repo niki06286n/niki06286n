@@ -1,18 +1,22 @@
 <div align="center">
 
   <!-- BANNER GIF -->
-  <img src="https://media.giphy.com/media/SYYHSFTgfqWpWz7u5Z/giphy.gif" width="100%" alt="Header GIF" />
+  <img src="https://media.giphy.com/media/SYYHSFTgfqWpWz7u5Z/giphy.gif" width="100%" alt="Purple sky banner" />
 
   <br><br>
 
-  <!-- TEXTO ANIMADO -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=450&lines=Hi+there,+I'm+Nicole+✨;Frontend+%26+Backend+Developer;Building+clean+%26+aesthetic+apps" alt="Typing SVG" />
-
-  <p>💜 <b>Computer Science Student · Crafting functional code & minimal designs</b></p>
+  <!-- TEXTO ANIMADO DE MÁQUINA DE ESCRIBIR (MORADO/MAGENTA) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=450&lines=Hi+there,+I'm+Nicole+✨;Frontend+%26+Backend+Developer;Building+clean+%26+aesthetic+apps" alt="Typing SVG" />
+  </a>
 
   <br>
 
-  <!-- REDES -->
+  <p>💜 <b><code>Computer Science Student</code></b> · <i>Crafting functional code & minimal designs</i></p>
+
+  <br>
+
+  <!-- REDES / CONTACTO -->
   <p>
     <a href="mailto:niki06286n@gmail.com">
       <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -32,7 +36,7 @@
 
   <br>
 
-  <!-- ESTADÍSTICAS PURPLE (STREAK + STATS) -->
+  <!-- ESTADÍSTICAS PURPLE (STREAK + TOP LANGS) -->
   <h3>📊 GitHub Stats</h3>
 
   <p>

@@ -73,15 +73,13 @@
   <!-- ESTADÍSTICAS Y RACHA CON LA PALETA PURPLE -->
   <h3 style="color: #60519b;">📊 GitHub Analytics</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=niki06286n&show_icons=true&bg_color=1e202c&title_color=60519b&text_color=bfc0d1&icon_color=60519b&border_color=31323e" height="155" />
-    <img src="https://streak-stats.demolab.com?user=niki06286n&background=1e202c&border=31323e&stroke=31323e&ring=60519b&fire=60519b&currStreakLabel=60519b&sideNums=bfc0d1&sideLabels=bfc0d1&dates=bfc0d1" height="155" />
+    <img src="https://github-readme-stats.vercel.app/api?username=niki06286n&show_icons=true&theme=tokyonight_duo&hide_border=true" height="150" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=niki06286n&background=1e202c&border=31323e&stroke=31323e&ring=60519b&fire=60519b&currStreakLabel=60519b&sideNums=bfc0d1&sideLabels=bfc0d1&dates=bfc0d1" height="150" alt="Streak Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki06286n&layout=compact&bg_color=1e202c&title_color=60519b&text_color=bfc0d1&border_color=31323e" height="140" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki06286n&layout=compact&theme=tokyonight_duo&hide_border=true" height="140" alt="Top Languages" />
   </p>
-
-  <br>
-
   <!-- RANDOM DEV QUOTE CON TUS COLORES -->
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=1e202c&text_color=bfc0d1&border_color=31323e" width="85%" />
